@@ -1,20 +1,121 @@
-[
+[{
+    "label": "What is 27 + 27?",
+    "choices": [{
+        "value": "54",
+        "correct": true
+      },
+      {
+        "value": "64",
+        "correct": false
+      },
+      {
+        "value": "44",
+        "correct": false
+      },
+      {
+        "value": "47",
+        "correct": false
+      }
+    ]
+  },
   {
-    "label": "What is 2 + 3?",
-    "choices": [
-      {"value": "5", "correct": true},
-      {"value": "15", "correct": false},
-      {"value": "3", "correct": false},
-      {"value": "pi", "correct": false}
+    "label": "What is 777 + 1777?",
+    "choices": [{
+        "value": "2554",
+        "correct": true
+      },
+      {
+        "value": "777",
+        "correct": false
+      },
+      {
+        "value": "456",
+        "correct": false
+      },
+      {
+        "value": "pi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is 300 * 77?",
+    "choices": [{
+        "value": "23100",
+        "correct": true
+      },
+      {
+        "value": "1500",
+        "correct": false
+      },
+      {
+        "value": "3000",
+        "correct": false
+      },
+      {
+        "value": "pi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is 609 + 1779?",
+    "choices": [{
+        "value": "2388",
+        "correct": true
+      },
+      {
+        "value": "1599",
+        "correct": false
+      },
+      {
+        "value": "7654",
+        "correct": false
+      },
+      {
+        "value": "pi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What is 986 * 60?",
+    "choices": [{
+        "value": "59160",
+        "correct": true
+      },
+      {
+        "value": "75099",
+        "correct": false
+      },
+      {
+        "value": "72654",
+        "correct": false
+      },
+      {
+        "value": "pi",
+        "correct": false
+      }
     ]
   },
   {
     "label": "What is 3 - 9?",
-    "choices": [
-      {"value": "3", "correct": false},
-      {"value": "-6", "correct": true},
-      {"value": "Bonjour", "correct": false},
-      {"value": "pi", "correct": false}
+    "choices": [{
+        "value": "3",
+        "correct": false
+      },
+      {
+        "value": "-6",
+        "correct": true
+      },
+      {
+        "value": "Bonjour",
+        "correct": false
+      },
+      {
+        "value": "pi",
+        "correct": false
+      }
     ]
   }
 ]
