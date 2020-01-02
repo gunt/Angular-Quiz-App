@@ -1,0 +1,15 @@
+// assets/quiz-list.json
+[
+    {
+      "label": "Maths",
+      "name": "maths",
+      "description": "Questions about maths",
+      "fileName": "maths.json"
+    },
+    {
+      "label": "French",
+      "name": "french",
+      "description": "Questions about french",
+      "fileName": "french.json"
+    }
+  ]
