@@ -1,4 +1,4 @@
-<!-- src/app.component.html -->
+<!-- src/app.component.html
 <div class="quiz" *ngIf="quiz">
 
   <div class="questions" *ngIf="!showResults">
@@ -8,4 +8,8 @@
     <button class="btn btn-success" (click)="nextOrViewResults()"
       [disabled]="!answers.values[currentQuestionIndex]">{{currentQuestionIndex === quiz.questions.length - 1 ? 'View results' : 'Next'}}</button>
   </div>
+</div> -->
+
+<div class="main">
+  <app-welcome></app-welcome>
 </div>
